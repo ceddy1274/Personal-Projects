@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HangGate</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="topnav">
+        <a href="index.html">HangGate</a>
+        <a href="ratatican.html">Ratatician</a>
+    </div>
+
+    <div class="header">
+        <h1>HangGate</h1>
+    </div>
+
+    <div class="container">
+        <div class="column">
+            <div id="guesses-tag">
+                Guesses: <p id="guesses"></p>
+            </div>
+            <p id="blanks"></p>
+            <p id="description"></p>
+            <form id="play-again">
+                <button type="submit">Play Again</button>
+            </form>
+        </div>
+        <div class="column">
+            <div class="stick-figure" id="stick-figure">
+                <div class="head" id="head"></div>
+                <div class="body" id="body"></div>
+                <div class="arm left-arm" id="left-arm"></div>
+                <div class="arm right-arm" id="right-arm"></div>
+                <div class="leg left-leg" id="left-leg"></div>
+                <div class="leg right-leg" id="right-leg"></div>
+            </div>
+        </div>
+        <div class="column">
+            <div id="image"></div>
+        </div>
+    </div>
+
+    <div class="letters">
+        <form id="textbox"></form>
+    </div>
+    
+    
+    <script src="server.js"></script>
+
+    
+</body>
+</html>

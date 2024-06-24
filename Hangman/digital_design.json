@@ -1,0 +1,67 @@
+[
+    {
+        "name": "AND Gate",
+        "image": "https://th.bing.com/th/id/OIP.Pd6jUxnSlsQUlDjPABqYEgAAAA?w=130&h=126&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "A logical gate that outputs true only if all its inputs are true."
+    },
+    {
+        "name": "OR Gate",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Logic-gate-or_-_Delapouite_-_game-icons.svg/640px-Logic-gate-or_-_Delapouite_-_game-icons.svg.png",
+        "description": "A logical gate that outputs true if any of its inputs are true."
+    },
+    {
+        "name": "NOT Gate",
+        "image": "https://th.bing.com/th/id/OIP.9TGsXyvSNBhcc15PEBC8owAAAA?w=140&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "A logical gate that inverts the input signal."
+    },
+    {
+        "name": "NAND Gate",
+        "image": "https://th.bing.com/th/id/OIP.-4dZGuw2rJW9w4mySCUAxAAAAA?w=147&h=66&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "A logical gate that outputs false only if all its inputs are true."
+    },
+    {
+        "name": "NOR Gate",
+        "image": "https://th.bing.com/th/id/OIP.jfCV56nob1o1JD6HSLA0JAAAAA?w=143&h=117&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "A logical gate that outputs false if any input is true"
+    },
+    {
+        "name": "XNOR Gate",
+        "image": "https://th.bing.com/th/id/OIP.kUix2Hcx-fGqXiR4KMgeGwAAAA?w=135&h=124&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "When both inputs are true or false, output is also false"
+    },
+    {
+        "name": "XOR Gate",
+        "image": "https://th.bing.com/th/id/OIP.Rtnz-lorg1YK6yrNwgzj5AAAAA?w=173&h=77&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "Returns true when number of true inputs is odd"
+    },
+    {
+        "name": "Half Adder",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ALU_half_adder_2.png/640px-ALU_half_adder_2.png",
+        "description": "A digital circuit that performs addition of two binary numbers."
+    },
+    {
+        "name": "Full Adder",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Full-adder.svg/640px-Full-adder.svg.png",
+        "description": "A digital circuit that performs addition of three binary numbers."
+    },
+    {
+        "name": "Multiplexer",
+        "image": "https://th.bing.com/th/id/OIP.9XfekylxyN-jUTYZEmlO-AAAAA?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "description": "A digital circuit that selects one of many input signals and forwards it to the output."
+    },
+    {
+        "name": "SR Latch",
+        "image": "https://th.bing.com/th/id/OIP.k06BAXRJ1pTB0DrIdmxDjgAAAA?rs=1&pid=ImgDetMain",
+        "description": "The S input sets the output to 1, while the R input resets the output to 0. When both S and R are at 1, the latch is said to be in an “undefined” state"
+    },
+    { 
+        "name": "D FlipFlop", 
+        "image": "https://th.bing.com/th/id/R.a06da94db93c9dc347c49d54f36e3472?rik=NaI0oOYAbe5K6Q&riu=http%3a%2f%2fi.stack.imgur.com%2fbFV6J.png&ehk=AekC8SWnl%2fTRR74iKNPqeg2c8ZcWHxht6FKB%2fwXdlEM%3d&risl=&pid=ImgRaw&r=0", 
+        "description": "A digital circuit that stores a single bit of data." 
+    },
+    { 
+        "name": "JK FlipFlop", 
+        "image": "https://th.bing.com/th/id/OIP.Eq9owFx44dFXnRaylmXD7gHaFj?w=212&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", 
+        "description": "A digital circuit that combines the features of the SR and D flip-flops." 
+    }
+]
