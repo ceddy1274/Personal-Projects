@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    background: #FFFFFDff;
+    font-family: 'Agbalumo', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    height: 100%;
+
+}
+
+html {
+    height: 100%;
+}
+#desc{
+    text-align: left;
+}
+p {
+    /* width: 60%; */
+    /* margin-top: 20v; */
+    color: #FFFFFDff;
+    position: relative;
+    margin: 0 auto;
+    /* padding-bottom:6%; */
+    font-size: 2.0vw; /* Adjust text size based on viewport width */
+}
+
+p2 {
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 1.5vw; /* Adjust text size based on viewport width */
+    font-family:'Raleway';
+    line-height: 2.3vw;
+}
+
+
+title1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:#A29BC4ff;
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
+    /* text-decoration: underline; */
+    font-size: 3.5vw; /* Adjust text size based on viewport width */
+}
+
+title2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 3%;
+    padding-bottom:3%;
+    color:#FFFFFDff;
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
+    /* text-decoration: underline; */
+    font-size: 3.5vw; /* Adjust text size based on viewport width */
+}
+
+.header-container {
+    position: relative;
+    height: 100vh; 
+}
+
+.mbody {
+    padding-top: 15vh;
+    text-align: center;
+    width: 60%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    font-size: 2.2vw,1.0vh; /* Adjust text size based on viewport width */
+    transform: translate(-50%, -50%);
+}
+
+iframe{
+    width: 60%;
+    height: auto; /* This will make the height adjust proportionally with the width */
+    aspect-ratio: 1 / 1; /* Set the aspect ratio to 4:3 (adjust as needed) */
+}
+
+#link {
+    height: 75%;
+    width: 100%;
+    aspect-ratio: 5/3;
+}
+
+iframe:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adds a subtle shadow effect when hovered over */
+}
+
+h1{
+    font-family: 'Agbalumo', sans-serif;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 10vw; /* Text size increases as viewport width increases */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    color:#A29BC4ff;
+    
+}
+
+.headerimg {
+    position: absolute;
+    width: 100%; /* Adjust width as needed */
+    height: 100vh; /* Adjust height as needed */
+    background-image: url('minimalist-nature-1920-x-1080-l1308frgkxw1naye.jpg'); /* Replace 'path/to/your/image.jpg' with the path to your image */
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center; /* Center the background image */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    background-color:#FFFFFDff;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.side-container img {
+
+    max-width:90%;
+    max-height: 90%;
+    border-radius: 1vw;
+    padding: 5%;
+    
+    
+}
+
+.description-container {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2vh;
+}
+
+button {
+    margin-top: 20vh;
+    padding-bottom: 2%;
+    width: 30%;
+    height: 2vw,2vh;
+    line-height: 2.5vw;
+    bottom: 5%; /* Position at the bottom of the parent container */
+    left: 75%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally using transform */
+    position:absolute;
+    margin-bottom: 20vh; /* Adjust as needed */
+    font-size: 1.5vw;
+    border-radius: 8vw; 
+    margin: 2%; 
+    border: solid 2px #FFFFFDff;
+    background-color: #A29BC4ff; 
+    color: #FFFFFDff; 
+    font-family: 'Agbalumo', sans-serif;  
+
+}
+
+#next {
+    width: 10%; 
+
+}
+
+#next:hover {
+    transition: 1000ms;
+    transform: translate(-50%, -0px);
+    background-color:#FFFFFDff;
+    color: #A29BC4ff;
+    border: solid 2px #A29BC4ff;
+}
+
+#botsc1{
+    padding-left:7vw;
+}
+
+#botsc2{
+
+    padding-right:7vw;
+}
+
+.side-by-side-container {
+    padding-top:3vh;
+    padding-bottom:3vh;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 40px; Increased space from the big container */
+    /*height: auto; Allow auto height*/
+    /* min-height: 70%; */
+    background-color:#FFFFFDff;
+    position:relative;
+    
+    /* display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+    height: auto;
+    border-radius: 1vw;
+    background-color: #af9cb9; */
+
+    
+}
+
+.side-by-side-container2 {
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    background: #6C6EA9ff; /*linear-gradient(to bottom, #ffffff, #a6a6e5); */
+    padding-bottom:10vh;
+}
+
+.side-container {
+    width: calc(45% - 10px); /* Adjusted width calculation */
+    height: auto;
+    align-items: center;
+    background-color: transparent;
+}
+
+.side-container2 {
+    width: calc(45% - 10px); /* Adjusted width calculation */
+    height: auto;
+    align-items: center;
+    border-color: #060606;
+}
+
+
+.bottom-container {
+    background-color: #2d2433;
+    width: 100%;
+    height: 20vh;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+.bottom-left-container {
+    color: #FFFFFDff;
+    font-size: 1vw;
+    text-align: left;
+    width: 30%;
+    position: absolute;
+    left: 10%;
+    margin-top: 2vh;
+    height: auto;
+}
+
+.bottom-right-container {
+    color: #FFFFFDff;
+    text-align: left;
+    width: 30%;
+    position: absolute;
+    left: 45%;
+    margin-top: 2vh;
+    /*height: auto;*/
+}
+
+
+.arkansas-logo {
+    position: relative;
+    float: right;
+    margin-top: 1%;
+    /*bottom: 2vh;*/
+    /*right: 2vw;*/
+    width: 10vw;
+    height: auto;
+
+}
+
+.creds .typeinfo {
+    font-family: monospace, sans-serif;
+    /*font-size: 1vh;*/
+}
+
+.typeinfo {
+    font-size: .8vw;
+}
+
+.creds {
+    font-size: .8vw;
+    width: 40%;
+}

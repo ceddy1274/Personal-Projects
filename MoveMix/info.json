@@ -1,0 +1,685 @@
+
+{
+  "act1":{
+    "name": "Pickleball",
+    "img_src": "photos/1.webp",
+    "description": "Pickleball is a fast-paced paddle sport that combines elements of tennis, badminton, and ping-pong. Players use solid paddles to hit a perforated ball over a net, aiming to score points while engaging in strategic rallies.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.024091725244!2d-94.15977872472918!3d36.11727080589925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96c0f22d47591%3A0x1f3b08b7ebfa0f8e!2s3615%20N%20Steele%20Blvd%2C%20Fayetteville%2C%20AR%2072704!5e0!3m2!1sen!2sus!4v1712993699721!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/kqLRRNOpe8U?si=OD8cuhG3hEmxvAVd",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+  "act2":{
+    "name": "Spikeball",
+    "img_src": "photos/2.webp",
+    "description": "\nSpikeball is a dynamic and competitive outdoor game that involves two teams of two players each, aiming to hit a small ball onto a round net that's set at ankle level. Players take turns bouncing the ball off the net, and the opposing team has three touches to return it back onto the net, creating a fast-paced and exhilarating experience.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.8461730719455!2d-94.15700822472903!3d36.12160520565856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96c0b5be12ad7%3A0x5799e5cc8cfdfeda!2sAcademy%20Sports%20%2B%20Outdoors!5e0!3m2!1sen!2sus!4v1712993788339!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/tc1pEqCGWnw?si=EZRxPdRriOTFP1u7",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act3":{
+    "name": "Basketball",
+    "img_src": "photos/3.webp",
+    "description": "\nBasketball is a high-energy team sport played on a rectangular court with hoops positioned at each end. Players aim to score points by shooting a ball through the opponent's hoop while preventing them from doing the same. With its fast-paced gameplay, dribbling, passing, and shooting skills, basketball captivates players and fans worldwide, embodying teamwork, athleticism, and strategy.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/wYjp2zoqQrs?si=DF36KRyCrvdL5OgC",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+  "act4": {
+    "name": "Football",
+    "img_src": "photos/4.webp",
+    "description": "Football, commonly known as American football, is a team sport played with an oval-shaped ball primarily using the hands and arms to pass and carry the ball. Players aim to advance the ball into the opposing team's end zone to score points while defending their own end zone.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/uM9iLQJzMO0?si=EUgYGTixEekWDETP",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act5":{
+    "name": "Soccer",
+    "img_src": "photos/5.webp",
+    "description": "Soccer, also known as football in many countries, is a team sport played between two teams of eleven players each, with the objective of scoring goals by kicking the ball into the opposing team's goal. It is the world's most popular sport, known for its fast pace, skillful play, and global appeal.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/qknP-E-vPQ4?si=WDPGNy1TXeiAiE4q",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act6":{
+    "name": "Volleyball",
+    "img_src": "photos/6.webp",
+    "description": "Volleyball is a team sport where two teams of six players each try to score points by grounding the ball on the opposing team's court. It's characterized by fast-paced rallies, strategic positioning, and precise ball control, making it an exciting and dynamic game enjoyed worldwide.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/OWCkPbzq81g?si=jubC4DWu_hqYwhsP",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+
+  "act7":{
+    "name": "Baseball",
+    "img_src": "photos/7.webp",
+    "description": "Baseball is a bat-and-ball game played between two teams, each consisting of nine players, where the objective is to score runs by hitting a thrown ball and then advancing around four bases on a field in a counter-clockwise direction. It's a sport deeply ingrained in American culture and has a rich history dating back to the 18th century.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.60098130473!2d-94.20892242472983!3d36.10321370667905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96dd89842a947%3A0x72f686025f1c8be2!2sGary%20Hampton%20Field!5e0!3m2!1sen!2sus!4v1712994390057!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/WMA8L5OpuDY?si=8YHN-_Ip56EKmHoC",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act8":{
+    "name": "Tennis",
+    "img_src": "photos/8.webp",
+    "description": "Tennis is a sport played between two players (singles) or two teams of two players each (doubles), where they use a racket to hit a ball over a net into the opponent's court. The objective is to score points by successfully hitting the ball in such a way that the opponent is unable to return it. It's a popular and widely practiced sport worldwide, known for its combination of physical prowess, strategy, and mental agility.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.024091725244!2d-94.15977872472918!3d36.11727080589925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96c0f22d47591%3A0x1f3b08b7ebfa0f8e!2s3615%20N%20Steele%20Blvd%2C%20Fayetteville%2C%20AR%2072704!5e0!3m2!1sen!2sus!4v1712993699721!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/jrhM3k84YJU?si=xMSfTROSQIkyk3uC",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act9":{
+    "name": "Running",
+    "img_src": "photos/9.webp",
+    "description": "Running is a form of physical exercise where one moves rapidly on foot, typically covering a distance over a certain route or track. It's a popular activity for improving cardiovascular fitness, endurance, and overall health.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/v6gxmBerTeM?si=GwbnworPeEeN35Vg",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act10":{
+    "name": "Mountain Biking",
+    "img_src": "photos/10.webp",
+    "description": "Mountain biking is an exhilarating outdoor activity where riders navigate rugged terrain and trails on specially designed bicycles, providing an adventurous way to explore natural landscapes and challenge their cycling skills.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25799.39695894692!2d-94.19239695550178!3d36.07094264708406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96eb7cc5f42cb%3A0x10ec27f6189a92e6!2sGregory%20Park!5e0!3m2!1sen!2sus!4v1712995085052!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/11QXeRYNbd8?si=VX1tLkhsOOknmti6",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act11":{
+    "name": "Hiking",
+    "img_src": "photos/11.webp",
+    "description": "Hiking is a recreational activity that involves walking on trails or paths in natural environments, typically in forests, mountains, or other scenic areas, offering opportunities for exercise, exploration, and enjoying nature.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25799.39695894692!2d-94.19239695550178!3d36.07094264708406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9692668a26649%3A0x844f1cfc8c3a9f2a!2sMt.%20Sequoyah%20Woods!5e0!3m2!1sen!2sus!4v1712995215280!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/edElLWvSVLk?si=Fd7PuekZ6uHgMWCs",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act12":{
+    "name": "Swimming",
+    "img_src": "photos/12.webp",
+    "description": "Swimming is a water-based activity where individuals move through water using their arms and legs, often for exercise, recreation, or competition, and it's known for its cardiovascular benefits and low-impact nature.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/Bd3SdkEaIaE?si=z0PUHfhaSdLKxKyT",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act13":{
+    "name": "Camping",
+    "img_src": "photos/13.webp",
+    "description": "Camping involves setting up temporary shelter outdoors, typically in tents, and enjoying activities such as hiking, fishing, and roasting marshmallows around a campfire, providing an immersive experience in nature.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25799.39695894692!2d-94.19239695550178!3d36.07094264708406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9692668a26649%3A0x844f1cfc8c3a9f2a!2sMt.%20Sequoyah%20Woods!5e0!3m2!1sen!2sus!4v1712995215280!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/KpCpOpGxgLo?si=t8IpI2C_6jQ-kOCw",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act14":{
+    "name": "Outdoor Climbing",
+    "img_src": "photos/14.webp",
+    "description": "Outdoor climbing entails scaling natural rock formations using specialized equipment like ropes, harnesses, and carabiners, offering a thrilling challenge and a chance to connect with nature while testing physical and mental strength.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25799.39695894692!2d-94.19239695550178!3d36.07094264708406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9692668a26649%3A0x844f1cfc8c3a9f2a!2sMt.%20Sequoyah%20Woods!5e0!3m2!1sen!2sus!4v1712995215280!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/Hlw9GVBs890?si=MmHfWCRWaKB_Zf-_",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act15":{
+    "name": "Indoor Climbing",
+    "img_src": "photos/15.webp",
+    "description": "Indoor climbing involves ascending artificial climbing walls within a controlled environment, providing a safe and accessible way to practice climbing techniques and build strength and agility regardless of weather conditions.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/HwQg7hD19jE?si=oipSMcciO8u_QTGx",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act16":{
+    "name": "Racquetball",
+    "img_src": "photos/16.webp",
+    "description": "Racquetball is a fast-paced indoor sport played with a hollow rubber ball and racquets in a court, where players hit the ball against the front wall to win points. Racquetball combines elements of squash and handball, featuring intense rallies and strategic shots as players aim to outmaneuver each other within the confines of the court.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/mdZ9X2iaAJQ?si=L3GEPVr8U11gN7V3",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act17":{
+    "name": "Table Tennis",
+    "img_src": "photos/17.webp",
+    "description": "Table tennis, also known as ping pong, is a fast-paced indoor sport where players use small paddles to hit a lightweight ball back and forth across a table divided by a net, aiming to score points by making the ball bounce twice on the opponent's side or by forcing them to miss a return shot.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/C_aMGQGbZVg?si=3Zlna7K43R13LlnA",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act18":{
+    "name": "Cricket",
+    "img_src": "photos/18.webp",
+    "description": "Cricket is a bat-and-ball game played between two teams, each consisting of eleven players, on a circular field with a rectangular 22-yard-long pitch in the center. The objective is for one team to score more runs than the other while the opposing team tries to dismiss their batsmen and restrict their scoring.",
+    "map_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/VwII4y5vpyU?si=kLxucUEr5rvFprjs",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act19":{
+    "name": "Boxing",
+    "img_src": "photos/19.webp",
+    "description": "Boxing is a combat sport where two opponents, typically wearing protective gloves, throw punches at each other within a roped-off square ring. The aim is to outscore or knock out the opponent within a set number of rounds.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102950.23475475708!2d-94.2603118572886!3d36.259048453624764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96cd776102ca7%3A0x5992b7020a2a205e!2sStraightright%20Boxing%20%26%20Fitness!5e0!3m2!1sen!2sus!4v1712996543692!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/2ZDt_94HpKI?si=aXdAsAHP-LOgB7xX",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act20":{
+    "name": "Bowling",
+    "img_src": "photos/20.webp",
+    "description": "Bowling is a recreational sport where players roll a heavy ball down a lane to knock down pins arranged in a triangular formation at the end of the lane. The objective is to score points by knocking down as many pins as possible in each frame.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102949.94437077752!2d-94.26031208869031!3d36.25926878815228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b42790b9179%3A0xe0e57756059e8a69!2sSpringdale%20Bowl!5e0!3m2!1sen!2sus!4v1712996601015!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/Tbyp-FV7Nu0?si=7zdZIc3tk8SvE0kT",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act21":{
+    "name": "Badminton",
+    "img_src": "photos/21.webp",
+    "description": "Badminton is a racket sport played with a shuttlecock (also called a birdie) where players hit it back and forth over a net. The objective is to score points by landing the shuttlecock in the opponent's court, similar to tennis but with different equipment and rules.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/WPM40QTO9DE?si=oVD6cbaBwx16ahz5",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act22":{
+    "name": "Skateboarding",
+    "img_src": "photos/22.webp",
+    "description": "Skateboarding is a recreational activity and sport where individuals ride on a board with wheels and perform various tricks and maneuvers, often in skate parks or urban environments. It involves balance, coordination, and creativity, and has evolved into a popular subculture with its own style and community.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206123.54549700767!2d-94.38217170153692!3d36.17433117525575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f2583ca84bf%3A0x7bc410f5f55e6347!2sWalker%20Skatepark!5e0!3m2!1sen!2sus!4v1713036639550!5m2!1sen!2sus",
+    "youtube_link": "https://www.youtube.com/embed/caybBWR_B7U?si=uUV-03BQsw9qkXNq",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act23":{
+    "name": "Golf",
+    "img_src": "photos/23.webp",
+    "description": "Golf is a precision club-and-ball sport where players use various clubs to hit balls into a series of holes on a course in as few strokes as possible. It's enjoyed by players of all ages and skill levels, offering both competitive and leisurely play in beautiful outdoor settings.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103184.26942389777!2d-94.30409018003354!3d36.08109253672502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f505249226b%3A0xfd7b852f1e6282b0!2sFayetteville%20Country%20Club!5e0!3m2!1sen!2sus!4v1712995818189!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/me5gjIUe1Ks?si=jlLMjm2a4p6PmvI1",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act24":{
+    "name": "Mini Golf",
+    "img_src": "photos/24.webp",
+    "description": "Mini golf, also known as miniature golf or putt-putt, is a fun and family-friendly version of traditional golf played on small, themed courses featuring obstacles and challenges. It's a popular recreational activity enjoyed by people of all ages and skill levels, offering a casual yet entertaining way to putt around with friends and family.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642517.4554863137!2d-96.10016266827714!3d36.48070393490538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9695488e38e83%3A0x8ade72538503b76b!2sGator%20Golf%20Miniature%20Golf%20Course!5e0!3m2!1sen!2sus!4v1712997392051!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/wLxnqGLBxoU?si=m4aVrQRgs8R_bVUi",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act25":{
+    "name": "Rugby",
+    "img_src": "photos/25.webp",
+    "description": "Rugby is a dynamic team sport characterized by physical contact and fast-paced action, played with an oval-shaped ball on a rectangular field. It involves passing, kicking, and carrying the ball towards the opponent's goal line to score points, emphasizing teamwork, strategy, and athleticism.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/Q8bdqMeuIiM?si=n_lrlukM9rGH4JHc",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act26":{
+    "name": "Kayaking",
+    "img_src": "photos/26.webp",
+    "description": "Kayaking is a water sport where individuals paddle small boats called kayaks, typically propelled by a double-bladed paddle. It can be enjoyed in various settings, from calm lakes and rivers to challenging whitewater rapids and coastal waters, offering opportunities for adventure, exploration, and exercise in nature.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57896.409953881506!2d-94.20237851019888!3d36.09982892361616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b844e2d3e65%3A0x5f9b3d0c8a07f9b9!2sLake%20Fayetteville%20Park!5e0!3m2!1sen!2sus!4v1713036527714!5m2!1sen!2sus",
+    "youtube_link": "https://www.youtube.com/embed/0Wwm-dF7vbs?si=CTopsbRoteVpnrXh",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act27":{
+    "name": "Fishing",
+    "img_src": "photos/27.webp",
+    "description": "Fishing is a recreational activity involving catching fish, typically using a rod, reel, line, and bait. It can be done in freshwater or saltwater environments, offering relaxation, challenge, and the opportunity to connect with nature while enjoying the outdoors.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57896.409953881506!2d-94.20237851019888!3d36.09982892361616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b844e2d3e65%3A0x5f9b3d0c8a07f9b9!2sLake%20Fayetteville%20Park!5e0!3m2!1sen!2sus!4v1713036527714!5m2!1sen!2sus",
+    "youtube_link": "https://www.youtube.com/embed/CFTI8TdrNtY?si=pATtutsYp1aZpZiB",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act28":{
+    "name": "Archery",
+    "img_src": "photos/28.webp",
+    "description": "Archery is a sport or recreational activity that involves using a bow to shoot arrows at a target. It requires precision, focus, and skill, making it both challenging and rewarding for participants of all ages.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103058.87459254274!2d-94.37575920273432!3d36.17653460000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96d68ddfc5f1f%3A0xaeab5f96afb9f97a!2sOzark%20Sportsman!5e0!3m2!1sen!2sus!4v1712995521711!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/T5zHaVExt6M?si=i6y7-MPk99U5Z633",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act29":{
+    "name": "Axe Throwing",
+    "img_src": "photos/29.webp",
+    "description": "Axe throwing is a thrilling activity where participants hurl axes at wooden targets, aiming for precision and accuracy. It's a fun and engaging experience that combines skill, competition, and a touch of adventure.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103058.8745925426!2d-94.37575920273437!3d36.17653460000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c91796e3dc99d7%3A0x298bdbdd571519ea!2sOzark%20Axe%20House!5e0!3m2!1sen!2sus!4v1712996672896!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/e_rknG9uGTA?si=3PKGUxvtgXOZUVma",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act30":{
+    "name": "Trap Shooting",
+    "img_src": "photos/30.webp",
+    "description": "Trap shooting is a recreational and competitive shooting sport where participants use shotguns to shoot clay targets launched into the air at varying angles and speeds. It requires precision, timing, and focus, making it an exciting and challenging activity for shooters of all skill levels.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102843.16195334248!2d-94.26944933389602!3d36.34021389729354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c8ff4224c82273%3A0x6a43cf1d1b43c682!2sThe%20Outlaw%20Ridge!5e0!3m2!1sen!2sus!4v1712996927861!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/v4H3RY_SoDw?si=x-OQDFaBVtNKevJr",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act31":{
+    "name": "Kickball",
+    "img_src": "photos/31.webp",
+    "description": "Kickball is a fun and social team sport similar to baseball, where players kick a rubber ball instead of hitting it with a bat. It's played on a diamond-shaped field, and the objective is for teams to score runs by rounding bases and reaching home plate without being tagged out.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/vvukFoXudy4?si=PuVb2LxvgER_co0E",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act32":{
+    "name": "Softball",
+    "img_src": "photos/32.webp",
+    "description": "Softball is a variant of baseball played with a larger ball on a smaller field. It's typically played with a larger and softer ball than baseball, and the game is popular for its fast pace and emphasis on teamwork and strategy.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/jzATZiXsjHc?si=taWv_YKAubY7I_A7",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act33":{
+    "name": "Yoga",
+    "img_src": "photos/33.webp",
+    "description": "Yoga is a practice that combines physical postures, breathing exercises, and meditation. It aims to promote relaxation, flexibility, strength, and mental clarity.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/1Je0mu4GG-o?si=cfumtUKfCPIaJbY-",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act34":{
+    "name": "Sand Volleyball",
+    "img_src": "photos/34.webp",
+    "description": "Sand volleyball, also known as beach volleyball, is a variant of indoor volleyball played on sand courts typically located near beaches or recreational areas. It's played by two teams of two players each, aiming to score points by hitting a ball over a net and preventing the opposing team from returning it.\n\n\n\n\n\n\n",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51518.69881808949!2d-94.63470195136719!3d36.192859600000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9a3fce320ad0f%3A0x8e8732866cd4cdcc!2sBeach%20Volleyball%20Court!5e0!3m2!1sen!2sus!4v1713015433483!5m2!1sen!2sus",
+    "youtube_link": "https://www.youtube.com/embed/l_bphVeBE8c?si=8w0JygC6IuYQZF-5",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act35":{
+    "name": "Rollerskating",
+    "img_src": "photos/35.webp",
+    "description": "Rollerskating involves gliding on wheels attached to shoes, typically in a rink or on paved surfaces. It's a recreational activity that can be enjoyed individually or with friends, promoting balance, coordination, and aerobic exercise.\n\n\n\n\n\n\n",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206428.5270931281!2d-94.31031388976697!3d36.05823069690838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ed1fce3f413%3A0x6d31a9bbcc74a4c7!2sStarlight%20Skatium!5e0!3m2!1sen!2sus!4v1712995657789!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/FhDm056yGqU?si=C97NFRdXiby-X_23",
+    "intensity": "medim",
+    "selected": false
+  },
+
+
+
+  "act36":{
+    "name": "Rollerblading",
+    "img_src": "photos/36.webp",
+    "description": "Rollerblading, also known as inline skating, is a recreational activity where participants glide on wheeled boots, promoting cardiovascular fitness, balance, and agility. It's a popular outdoor activity enjoyed in parks, trails, and urban settings.\n\n\n\n\n\n\n",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206428.5270931281!2d-94.31031388976697!3d36.05823069690838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ed1fce3f413%3A0x6d31a9bbcc74a4c7!2sStarlight%20Skatium!5e0!3m2!1sen!2sus!4v1712995657789!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/SxraTJyE5OI?si=NB493nAExiLQiAvz",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act37":{
+    "name": "Skydiving",
+    "img_src": "photos/37.webp",
+    "description": "Skydiving is an exhilarating adventure sport involving jumping from an aircraft and freefalling before deploying a parachute to glide safely back to the ground, offering an unmatched adrenaline rush and breathtaking aerial views.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1640007.8336356005!2d-95.78483459477343!3d36.59892986670663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c965ecfe294dd7%3A0x142a463f764472b6!2sSkydive%20Fayetteville!5e0!3m2!1sen!2sus!4v1712996969358!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/8tixsMIOGrw?si=PVjL6LaDinRm7zX0",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act38":{
+    "name": "Disc Golf",
+    "img_src": "photos/38.webp",
+    "description": "Disc golf is a sport similar to traditional golf, but instead of using clubs and balls, players throw flying discs towards a target. The goal is to complete each hole in the fewest throws possible, navigating obstacles and varying terrain along the course.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103184.55954901109!2d-94.30408994810506!3d36.080871460236956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96fe2906618b5%3A0x966acc20bd7967b2!2sWaxhaws%20Disc%20Golf%20Course!5e0!3m2!1sen!2sus!4v1712995755761!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/T7Buk1Hn8jM?si=oL9YUFrFSMbB7TsM",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act39":{
+    "name": "Ultimate Frisbee",
+    "img_src": "photos/39.webp",
+    "description": "Ultimate Frisbee is a fast-paced team sport played with a flying disc, where players score points by passing the disc to teammates in an end zone. It combines elements of soccer, football, and basketball, emphasizing athleticism, teamwork, and sportsmanship.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/QQCY6qrBey0?si=tDL4NxwWwIhzu3nh",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act40":{
+    "name": "Ninja Course",
+    "img_src": "photos/40.webp",
+    "description": "A ninja course is an obstacle course that challenges participants' strength, agility, and endurance, featuring a variety of obstacles inspired by those seen on the television show \"American Ninja Warrior.\" Participants navigate through obstacles like balance beams, warped walls, cargo nets, and monkey bars to complete the course as quickly as possible.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642303.2011942817!2d-96.10010333697508!3d36.490810124057454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9138dbb0ddfa5%3A0xa348727b8a2458ce!2sFlip%20Side%20Ninja%20Park!5e0!3m2!1sen!2sus!4v1712997307319!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/jO7u3cENR3A?si=h314hogVAk-zpi3U",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act41":{
+    "name": "Ice Skating",
+    "img_src": "photos/41.webp",
+    "description": "Ice skating is a recreational activity or sport performed on ice using ice skates, where participants glide across the ice surface by pushing off with the edges of their skates. It can be enjoyed individually or in pairs, and it's popular for both leisure and competitive purposes.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102949.65398648515!2d-94.26031232009133!3d36.259489121761966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b2e7db22083%3A0x3c147ecedfe8f97f!2sThe%20Jones%20Center!5e0!3m2!1sen!2sus!4v1712996636444!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/bf_uOPK0FvA?si=WXoS87XnMN3nEVs8",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act42":{
+    "name": "Laser Tag",
+    "img_src": "photos/42.webp",
+    "description": "Laser tag is an interactive game where players use infrared-emitting light guns to tag designated targets, typically other players, to score points. It's often played in indoor arenas with various obstacles and themes, providing an exciting and immersive experience for participants of all ages.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103183.97929845609!2d-94.3040904119614!3d36.081313612292824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96a34b49dd563%3A0x711d24a6f9485371!2sModern%20Mission%20-%20Outdoor%20Laser%20Tag%20%2B%20Airsoft%20%2B%20Axe%20Throwing%20-%20Indoor%20Laser%20Tag!5e0!3m2!1sen!2sus!4v1712995923650!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/LkMO_chGWv8?si=SXxck1K48iwC-g9a",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act43":{
+    "name": "Airsoft",
+    "img_src": "photos/43.webp",
+    "description": "Airsoft is a competitive shooting sport where participants use replica firearms to shoot spherical plastic pellets at each other in simulated combat scenarios. It offers a safe and adrenaline-filled experience similar to paintball but with more realistic-looking equipment and tactics.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103183.97929845609!2d-94.3040904119614!3d36.081313612292824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96a34b49dd563%3A0x711d24a6f9485371!2sModern%20Mission%20-%20Outdoor%20Laser%20Tag%20%2B%20Airsoft%20%2B%20Axe%20Throwing%20-%20Indoor%20Laser%20Tag!5e0!3m2!1sen!2sus!4v1712995923650!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/fYJAYI6EXYU?si=dUUEnPNbXCAywfOB",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act44":{
+    "name": "Go Karting",
+    "img_src": "photos/44.webp",
+    "description": "Go karting is a thrilling motorsport activity where participants drive small, open-wheel vehicles around a track. It offers high-speed excitement and competitive racing experiences for both amateurs and professionals alike.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103183.68917268598!2d-94.30409064388857!3d36.0815346869403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b8e3d8166ad%3A0x25c6434f5228799d!2sLokomotion%20Family%20Fun%20Park!5e0!3m2!1sen!2sus!4v1712996051308!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/3rDQu-I-jtQ?si=ZLTRTD4CSJ6WYr30",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act45":{
+    "name": "Weightlifting",
+    "img_src": "photos/45.webp",
+    "description": "Weightlifting is a strength sport where athletes lift heavy weights in two primary lifts: the snatch and the clean and jerk. It's not just about building muscle but also about developing power, technique, and mental discipline.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/47Dt93KB3T4?si=lEsm2Wbd5a2vxPwc",
+    "intensity": "hard",
+    "selected": false
+  },
+
+
+
+  "act46":{
+    "name": "Horseback Riding",
+    "img_src": "photos/46.webp",
+    "description": "Horseback riding involves riding and controlling horses for various activities, including leisure riding, competitive sports like dressage and show jumping, and working tasks like herding cattle or farm work. It's a unique blend of athleticism, partnership with animals, and connection with nature.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103183.39904658745!2d-94.30409087581508!3d36.08175576066748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c94282025c9ba7%3A0x122c797c46b4fdc3!2sFlying%20Q!5e0!3m2!1sen!2sus!4v1712996109666!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/fV7kuUrjutY?si=jSeqCogPy2LlFG8L",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act47":{
+    "name": "Inner Tubing",
+    "img_src": "photos/47.webp",
+    "description": "Inner tubing involves floating down rivers or across lakes on an inflatable tube, offering a relaxing way to enjoy the water and nature while drifting along at a leisurely pace. It's a popular activity for both solo relaxation and group outings, providing a refreshing escape from the heat during summer months.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57896.409953881506!2d-94.20237851019888!3d36.09982892361616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b844e2d3e65%3A0x5f9b3d0c8a07f9b9!2sLake%20Fayetteville%20Park!5e0!3m2!1sen!2sus!4v1713036527714!5m2!1sen!2sus",
+    "youtube_link": "https://www.youtube.com/embed/MWEpRcRlAx0?si=ajC1DEwt4LavQDB1",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act48":{
+    "name": "Water Skiing",
+    "img_src": "photos/48.webp",
+    "description": "Water skiing is an exhilarating water sport where participants are towed behind a boat while standing on skis, gliding across the water's surface. It requires balance, coordination, and agility, offering thrills for both beginners and experienced skiers alike.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206329.92488597363!2d-94.46027771079919!3d36.09580190295319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bbd350c2673%3A0xf73630aa067f70b1!2sLake%20Fayetteville!5e0!3m2!1sen!2sus!4v1712996148777!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/df9-EjiGy8A?si=L3dk1dLN0C35o5SY",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act49":{
+    "name": "Deer Hunting",
+    "img_src": "photos/49.webp",
+    "description": "Deer hunting is a popular outdoor activity where hunters pursue deer for sport or sustenance, often involving stealth, patience, and skill in tracking and marksmanship. It's deeply rooted in tradition and conservation, providing an opportunity for individuals to connect with nature and responsibly manage wildlife populations.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d826753.6497803979!2d-96.11921312187499!3d35.95904190000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9fa9b7202c777%3A0xab8d3f401d4f5f9c!2sSparrow%20Hawk%20Wildlife%20Management%20Area!5e0!3m2!1sen!2sus!4v1712996183681!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/hnnZ3L8PZxw?si=6LyiS18j3Kpq8Y4s",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act50":{
+    "name": "Chess",
+    "img_src": "photos/50.webp",
+    "description": "Chess is a classic strategy game played by millions worldwide, requiring players to outthink and outmaneuver their opponent using tactical moves and foresight to capture the opponent's king while protecting their own. It's a game of intellect, strategy, and patience that challenges players to anticipate their opponent's moves while planning their own to achieve victory.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238252.2513813514!2d-94.32651012990053!3d36.139157089120175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96eb245609ddd%3A0xb5265dbad85b2ee4!2sGear%20Gaming%20Store!5e0!3m2!1sen!2sus!4v1712996220905!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/OCSbzArwB10?si=jU-yxCDLWVY2FPj_",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act51":{
+    "name": "Driving Range",
+    "img_src": "photos/51.webp",
+    "description": "A driving range is a facility where golfers can practice their golf swing and improve their skills by hitting golf balls with various clubs into designated target areas. It's an essential resource for golfers of all skill levels to refine their technique and consistency in a controlled environment before heading out onto the golf course.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103184.26942389777!2d-94.30409018003354!3d36.08109253672502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f505249226b%3A0xfd7b852f1e6282b0!2sFayetteville%20Country%20Club!5e0!3m2!1sen!2sus!4v1712995818189!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/57L9OKeqgmM?si=4wvZoDtyMtCPA2hH",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act52":{
+    "name": "Lacrosse",
+    "img_src": "photos/52.webp",
+    "description": "Lacrosse is a fast-paced team sport that involves players using a stick with a netted pouch (lacrosse stick) to catch, carry, and pass a rubber ball while trying to score goals by shooting the ball into the opposing team's net. It's often played on a field or indoor arena, and it requires a combination of athleticism, strategy, and hand-eye coordination.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/O03TuYCQ3JY?si=R0m2zlxOXtNe5QJg",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act53":{
+    "name": "Handball",
+    "img_src": "photos/53.webp",
+    "description": "Handball is a dynamic team sport played indoors or outdoors, where players use their hands to pass and throw a small ball with the aim of scoring goals in the opponent's net. It involves fast-paced action, quick decision-making, and strategic positioning, making it both physically demanding and mentally engaging.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/5stC7wztk6E?si=iQOG0xn6eFwX4Zzq",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act54":{
+    "name": "Kite Flying",
+    "img_src": "photos/54.webp",
+    "description": "Kite flying is a leisure activity where participants fly kites, typically made of lightweight materials like paper or fabric, attached to a string. It's a simple yet enjoyable pastime that can be done solo or with friends and family, often in open outdoor spaces like parks or beaches.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/f2fP9G7bsUE?si=ReEzVECKDg8C-4WL",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act55":{
+    "name": "Horseshoes",
+    "img_src": "photos/55.webp",
+    "description": "Horseshoes is a classic outdoor game where players take turns tossing horseshoes towards a stake in the ground, aiming to encircle it or land the horseshoe as close as possible. It's a fun and relaxed game often enjoyed during casual gatherings or picnics, requiring minimal equipment and offering plenty of opportunities for socializing and friendly competition.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/IsALhFAXNYY?si=roWcI-c4cFtXt3oB",
+    "intensity": "easy",
+    "selected": false
+  },
+
+
+
+  "act56":{
+    "name": "Fencing",
+    "img_src": "photos/56.webp",
+    "description": "Fencing is a dynamic sport that combines athleticism, strategy, and precision. Participants engage in one-on-one duels using specialized swords while aiming to score points by touching their opponent with the weapon. It's a thrilling and strategic activity that hones both physical and mental agility.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102950.52513842391!2d-94.26031162588625!3d36.258828118179444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96cd0be736ebd%3A0xb72200439fa031ef!2sArkansas%20Fencing%20Academy!5e0!3m2!1sen!2sus!4v1712996278762!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/a8IdfA5fXJs?si=o_9jIQXvDGlX1LCc",
+    "intensity": "medium",
+    "selected": false
+  },
+
+
+
+  "act57":{
+    "name": "Field Hockey",
+    "img_src": "photos/57.webp",
+    "description": "Field hockey is a fast-paced team sport where players use sticks to maneuver a ball across the field and score goals. Played on grass or artificial turf, it requires speed, skill, and teamwork to outmaneuver opponents and control the game.",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "youtube_link": "https://www.youtube.com/embed/KUnLgiX44BQ?si=qXdn4cGKdWmqvQvV",
+    "intensity": "medium",
+    "selected": false
+  }
+
+}
+
