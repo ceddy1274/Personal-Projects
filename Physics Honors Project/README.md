@@ -4,6 +4,6 @@ This repository provides the source code and data for my University Physics 1 ho
 ### External Links
 Form 1 (textbook): https://forms.gle/viYzePcswYw96DuQA <br>
 Form 2 (videogame): https://forms.gle/ybaLPX86o1j2KQ5n6 <br>
-Video game link: https://cameroneddy.itch.io/ratvector <br>
+Video game link: [https://cameroneddy.itch.io/ratvector](https://cameroneddy.itch.io/ratvector) <br>
 ### Fun note
 The video game created for this was the follow-up to Ratatician One.
