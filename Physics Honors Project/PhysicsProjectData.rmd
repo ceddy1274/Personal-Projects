@@ -1,0 +1,66 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+#Testing difference between correct answers for computational question
+
+#Documentation Reference: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/fisher.test
+
+compMatrix <- matrix(c(2, 4, 3, 1), nrow = 2, byrow = TRUE)
+rownames(compMatrix) <- c("Correct", "Incorrect")
+colnames(compMatrix) <- c("Form 1", "Form 2")
+resultComp <- fisher.test(compMatrix, alternative="two.sided", conf.level=.99)
+print(resultComp)
+```
+
+```{r}
+#Testing difference between correct answers for conceptual question
+
+#Documentation Reference: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/fisher.test
+
+conMatrix <- matrix(c(1, 3, 4, 2), nrow = 2, byrow = TRUE)
+rownames(conMatrix) <- c("Correct", "Incorrect")
+colnames(conMatrix) <- c("Form 1", "Form 2")
+resultCon <- fisher.test(conMatrix, conf.level=.99)
+print(resultCon)
+```
+
+```{r}
+#Testing to see if timing for each group follows a normal distribution
+
+#Documentation Reference: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/shapiro.test
+
+form1 <- c(240,360,201,120)
+form2 <- c(480,1052,360,900)
+shapiro.test(form1)
+shapiro.test(form2)
+```
+
+```{r}
+#Test to see if the variances differ significantly between the two groups
+
+#Documentation Reference: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/var.test
+
+var.test(form1, form2, conf.level = .99)
+```
+
+```{r}
+#Perform the t test
+
+#Documentation Reference: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/t.test
+
+resultTime <- t.test(form1, form2, mu=0, alternative = "two.sided", var.equal = TRUE, conf.level=.99)
+resultTime
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
