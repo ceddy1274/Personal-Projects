@@ -1,0 +1,119 @@
+
+import csv
+import re
+
+def main():
+    #gets month which will be the sheet name
+    month = get_month()
+    #gets inital dict with unsorted categories and values
+    dictionary = get_categories_and_values()
+    #sorts categories alphabetically
+    categories_and_values = sor(dictionary)
+    #turns dict into csv file with category and amount as the headers
+    with open(f"{month}.csv", "w") as file:
+        writer = csv.DictWriter(file, fieldnames = ["Category","Amount"])
+        writer.writeheader()
+        for d in categories_and_values:
+            for key, value in d.items():
+                writer.writerow({"Category": key, "Amount": value})
+
+#gets the month which will be used as the sheet name
+def get_month():
+    print("Type month formatted as 'Month(as text)_Year(as number)'.  For example January 2000 could be 'Jan_2000' or 'January_2000'")
+    i = 0
+    while True:
+        if i == 0:
+            month = input("Month: ").strip()
+            if re.match(r"^([A-Z][a-z][a-z][a-z]*)+_([0-9][0-9][0-9][0-9])+$", month):
+                i = 1
+            else:
+                print("Month formatted incorrectly.  Put 'Month(as text)_Year(as number)'. Check for mistypes or if date was not in titlecase format")
+        if i == 1:
+            undo = input("Was your date what you want, if yes type 'Y' if not type 'N': ").upper()
+            if undo == "Y":
+                return month
+            elif undo == "N":
+                i = 0
+            else:
+               print("You didn't type 'Y' or 'N' try again")
+
+#gets inital dict with unsplit categories and values
+def get_categories_and_values():
+    """
+    Function gets category and amount from user in a loop until user uses ctr+c.  User must type category as 'Main_category - Sub_category'
+    and amount must be a float.  At anytime the use can type 'Undo: category_name' which will undo the last category the use typed.
+    """
+    print("*Type in categories and amounts until you have all you want, when finished press ctrl + c on keyboard to stop program")
+    print("*Format categories as maincategory-subcategory.  For example car payments would be formatted as 'Car-Payment'")
+    print("*To undo and input type 'Undo: Category Input'.  For example if you just typed car payments as your category you will type 'Undo: Car-Payment'")
+    print("*Undo works for both amount and category, where if you type undo in amount you can retype your category and if you type undo in category you can retype your amount")
+    categories = {}
+    cat = 0
+    i = 1
+    try:
+        while i < 4:
+            if i == 1:
+                #gets input of category for the first time
+                category = input("Category: ").title().strip()
+                if "-" not in category:
+                    print("Category formatted wrong, put 'Maincategory-Subcategory'.  If you can't think of an ideas for a main category use Misc")
+                    continue
+                else:
+                    #goes to amount input
+                    i = 3
+            if i == 2:
+                category = input("Category: ").title().strip()
+                #If use types "Undo: {former category typed}" this will allow user to retype the amount for that category
+                if "Undo:" in category:
+                    category = (category.replace("Undo:", "")).strip()
+                    categories[category] -= float(amount)
+                    i = 3
+                elif "Undo" in category:
+                    print("Undo formatted wrong, put 'Undo: Last Category Typed'")
+                    continue
+                elif "-" not in category:
+                    print("Category formatted wrong, put 'Maincategory-Subcategory'.  If you can't think of an ideas for a main category use Misc")
+                    continue
+                else:
+                    i = 3
+            if i == 3:
+                #gets amount for category
+                amount = input("Amount: ").strip()
+                #used to move to undo version of getting category
+                if "Undo:" in amount and cat == 0:
+                    i = 1
+                elif "Undo:" in amount:
+                    i = 2
+                elif "Undo" in amount:
+                    print("Undo formatted wrong, put 'Undo: Last Category Typed'")
+                    i = 3
+                    continue
+                else:
+                    try:
+                        categories[category] += float(amount)
+                        i = 2
+                    except KeyError:
+                        try:
+                            categories[category] = float(amount)
+                            i = 2
+                        except ValueError:
+                            print("Amount formatted wrong, must be a number or undo")
+                            continue
+    except KeyboardInterrupt:
+        print()
+        return categories
+
+#sorts dictionary alphabetically and puts individual dicts into a list one for each key value pair
+def sor(dictionary):
+    output = []
+    input = sorted(dictionary.items())
+    for category, amount in input:
+        category_dict = f"{category}_dict"
+        category_dict = {}
+        category_dict.setdefault(category, amount)
+        output.append(category_dict)
+    return output
+
+
+if __name__ == "__main__":
+    main()
